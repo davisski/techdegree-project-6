@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "Quote generator application",
+      "description": "Randomly generate quote in browser, by clicking on button.",
+      "tehnologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://",
+      "github_link": "https://github.com/davisski/techdegree-project-1",
+      "image_urls": {
+        "main": "/public",
+        "project": ["/public", "/public", "/public"]
+      }
+    }
+  ]
+}
