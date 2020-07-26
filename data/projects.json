@@ -11,6 +11,54 @@
         "main": "/public",
         "project": ["/public", "/public", "/public"]
       }
+    },
+    {
+      "id": "1",
+      "project_name": "List pagination and filtering",
+      "description": "Student list pagination and filtering students by name",
+      "tehnologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://",
+      "github_link": "https://github.com/davisski/techdegree-project-2",
+      "image_urls": {
+        "main": "/public",
+        "project": ["/public", "/public", "/public"]
+      }
+    },
+    {
+      "id": "2",
+      "project_name": "Interactive Form",
+      "description": "Interactive registration form for a fictional conference",
+      "tehnologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://",
+      "github_link": "https://github.com/davisski/techdegree-project-3",
+      "image_urls": {
+        "main": "/public",
+        "project": ["/public", "/public", "/public"]
+      }
+    },
+    {
+      "id": "3",
+      "project_name": "JavaScript word guessing game",
+      "description": "In this project I created a browser-based, word guessing game: 'Phrase Hunter'. I used Object-oriented JavaScript to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard or laptop keyboard.",
+      "tehnologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://",
+      "github_link": "https://github.com/davisski/techdegree-project-4",
+      "image_urls": {
+        "main": "/public",
+        "project": ["/public", "/public", "/public"]
+      }
+    },
+    {
+      "id": "4",
+      "project_name": "API public request",
+      "description": "In this project i used public API to fetch random employees data and display in browser web application, for a fictional company 'Awesome startup'. Where can see all employees information and search employees by name.",
+      "tehnologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://",
+      "github_link": "https://github.com/davisski/techdegree-project-5",
+      "image_urls": {
+        "main": "/public",
+        "project": ["/public", "/public", "/public"]
+      }
     }
   ]
 }
