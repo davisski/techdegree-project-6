@@ -5,11 +5,14 @@
       "project_name": "Quote generator application",
       "description": "Randomly generate quote in browser, by clicking on button.",
       "tehnologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "https://",
+      "live_link": "https://davisski.github.io/techdegree-project-1/",
       "github_link": "https://github.com/davisski/techdegree-project-1",
       "image_urls": {
-        "main": "/public",
-        "project": ["/public", "/public", "/public"]
+        "main": "/static/img/rsz_random_quote_0.jpg",
+        "project": [
+          "/static/img/rsz_random_quote_1.jpg",
+          "/static/img/rsz_random_quote_2.jpg"
+        ]
       }
     },
     {
@@ -17,11 +20,15 @@
       "project_name": "List pagination and filtering",
       "description": "Student list pagination and filtering students by name",
       "tehnologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "https://",
+      "live_link": "https://davisski.github.io/techdegree-project-2/",
       "github_link": "https://github.com/davisski/techdegree-project-2",
       "image_urls": {
-        "main": "/public",
-        "project": ["/public", "/public", "/public"]
+        "main": "/static/img/rsz_students_0.jpg",
+        "project": [
+          "/static/img/rsz_students_1.jpg",
+          "/static/img/rsz_students_2.jpg",
+          "/static/img/rsz_students_3.jpg"
+        ]
       }
     },
     {
@@ -29,11 +36,14 @@
       "project_name": "Interactive Form",
       "description": "Interactive registration form for a fictional conference",
       "tehnologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "https://",
+      "live_link": "https://davisski.github.io/techdegree-project-3/",
       "github_link": "https://github.com/davisski/techdegree-project-3",
       "image_urls": {
-        "main": "/public",
-        "project": ["/public", "/public", "/public"]
+        "main": "/static/img/rsz_register_for_full_stack_conf_0.jpg",
+        "project": [
+          "/static/img/rsz_register_for_full_stack_conf_1.jpg",
+          "/static/img/rsz_register_for_full_stack_conf_2.jpg"
+        ]
       }
     },
     {
@@ -41,11 +51,17 @@
       "project_name": "JavaScript word guessing game",
       "description": "In this project I created a browser-based, word guessing game: 'Phrase Hunter'. I used Object-oriented JavaScript to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard or laptop keyboard.",
       "tehnologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "https://",
+      "live_link": "https://davisski.github.io/techdegree-project-4/",
       "github_link": "https://github.com/davisski/techdegree-project-4",
       "image_urls": {
-        "main": "/public",
-        "project": ["/public", "/public", "/public"]
+        "main": "/static/img/rsz_phrase_hunter_0.jpg",
+        "project": [
+          "/static/img/rsz_phrase_hunter_1.jpg",
+          "/static/img/rsz_phrase_hunter_2.jpg",
+          "/static/img/rsz_phrase_hunter_3.jpg",
+          "/static/img/rsz_phrase_hunter_4.jpg",
+          "/static/img/rsz_phrase_hunter_5.jpg"
+        ]
       }
     },
     {
@@ -53,11 +69,14 @@
       "project_name": "API public request",
       "description": "In this project i used public API to fetch random employees data and display in browser web application, for a fictional company 'Awesome startup'. Where can see all employees information and search employees by name.",
       "tehnologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "https://",
+      "live_link": "https://davisski.github.io/techdegree-project-5/",
       "github_link": "https://github.com/davisski/techdegree-project-5",
       "image_urls": {
-        "main": "/public",
-        "project": ["/public", "/public", "/public"]
+        "main": "/static/img/rsz_public_api_request_0.jpg",
+        "project": [
+          "/static/img/rsz_public_api_request_1.jpg",
+          "/static/img/rsz_public_api_request_2.jpg"
+        ]
       }
     }
   ]
