@@ -20,4 +20,6 @@ app.set("view engine", "pug");
  */
 app.use(routes);
 
-app.listen(3000, () => console.log("App is running"));
+const port = 3000;
+
+app.listen(port, () => console.log(`App is listening on port: ${port}`));
