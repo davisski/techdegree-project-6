@@ -8,10 +8,11 @@
       "live_link": "https://davisski.github.io/techdegree-project-1/",
       "github_link": "https://github.com/davisski/techdegree-project-1",
       "image_urls": {
-        "main": "/static/img/rsz_random_quote_0.jpg",
+        "main": "/static/img/rsz_quote_0.jpg",
         "project": [
-          "/static/img/rsz_random_quote_1.jpg",
-          "/static/img/rsz_random_quote_2.jpg"
+          "/static/img/rsz_quote_0_B.jpg",
+          "/static/img/rsz_quote_1.jpg",
+          "/static/img/rsz_quote_2.jpg"
         ]
       }
     },
@@ -25,9 +26,11 @@
       "image_urls": {
         "main": "/static/img/rsz_students_0.jpg",
         "project": [
+          "/static/img/rsz_students_0_B.jpg",
           "/static/img/rsz_students_1.jpg",
           "/static/img/rsz_students_2.jpg",
-          "/static/img/rsz_students_3.jpg"
+          "/static/img/rsz_students_3.jpg",
+          "/static/img/rsz_students_4.jpg"
         ]
       }
     },
@@ -39,10 +42,11 @@
       "live_link": "https://davisski.github.io/techdegree-project-3/",
       "github_link": "https://github.com/davisski/techdegree-project-3",
       "image_urls": {
-        "main": "/static/img/rsz_register_for_full_stack_conf_0.jpg",
+        "main": "/static/img/rsz_conf_0.jpg",
         "project": [
-          "/static/img/rsz_register_for_full_stack_conf_1.jpg",
-          "/static/img/rsz_register_for_full_stack_conf_2.jpg"
+          "/static/img/rsz_conf_0_B.jpg",
+          "/static/img/rsz_conf_1.jpg",
+          "/static/img/rsz_conf_2.jpg"
         ]
       }
     },
@@ -54,13 +58,14 @@
       "live_link": "https://davisski.github.io/techdegree-project-4/",
       "github_link": "https://github.com/davisski/techdegree-project-4",
       "image_urls": {
-        "main": "/static/img/rsz_phrase_hunter_0.jpg",
+        "main": "/static/img/rsz_phrase_0.jpg",
         "project": [
-          "/static/img/rsz_phrase_hunter_1.jpg",
-          "/static/img/rsz_phrase_hunter_2.jpg",
-          "/static/img/rsz_phrase_hunter_3.jpg",
-          "/static/img/rsz_phrase_hunter_4.jpg",
-          "/static/img/rsz_phrase_hunter_5.jpg"
+          "/static/img/rsz_phrase_0_B.jpg",
+          "/static/img/rsz_phrase_1.jpg",
+          "/static/img/rsz_phrase_2.jpg",
+          "/static/img/rsz_phrase_3.jpg",
+          "/static/img/rsz_phrase_4.jpg",
+          "/static/img/rsz_phrase_5.jpg"
         ]
       }
     },
@@ -72,10 +77,12 @@
       "live_link": "https://davisski.github.io/techdegree-project-5/",
       "github_link": "https://github.com/davisski/techdegree-project-5",
       "image_urls": {
-        "main": "/static/img/rsz_public_api_request_0.jpg",
+        "main": "/static/img/rsz_api_0.jpg",
         "project": [
-          "/static/img/rsz_public_api_request_1.jpg",
-          "/static/img/rsz_public_api_request_2.jpg"
+          "/static/img/rsz_api_0_B.jpg",
+          "/static/img/rsz_api_1.jpg",
+          "/static/img/rsz_api_2.jpg",
+          "/static/img/rsz_api_3.jpg"
         ]
       }
     }
