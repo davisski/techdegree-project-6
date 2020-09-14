@@ -2,7 +2,9 @@ extends layout.pug
 
 
 block content
-     article.grid-container
+     nav.grid-container.portfolio-breadcrumb
+        a(href='/') ← Back
+     article.error-container
         .error
             h1=err.message
-            p=`Error with status ${err.status} ${err.code}!`
+            p=`Error with status code ${err.status} ${err.code}!`

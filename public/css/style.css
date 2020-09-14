@@ -29,7 +29,6 @@ h1,h2,h3,h4,h5{
 }
 
 .text-light{
-  /* color: #666; */
   color: #ffffff;
 }
 
@@ -55,14 +54,12 @@ a:hover{
   margin-bottom: 1rem;
   border: solid 4px #95A3B3;
   border-radius: 10px;
-  /* border-radius: 0; */
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
 }
 
 .portfolio-me{
   padding: 20px;
-  /* background: #121213; */
   background: #222222;
   border-right: solid 2px #95A3B3;
   color: #fff;
@@ -212,4 +209,7 @@ nav a:hover{
 }
 .error{
   padding-top: 30px;
+}
+.error-container{
+  padding-left: 30px;
 }
