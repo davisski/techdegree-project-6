@@ -1,0 +1,8 @@
+extends layout.pug
+
+
+block content
+     article.grid-container
+        .error
+            h1=err.message
+            p=`Error with status ${err.status} ${err.code}!`
