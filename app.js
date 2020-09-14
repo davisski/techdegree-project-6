@@ -3,15 +3,15 @@ const app = express();
 const path = require("path");
 const http = require("http");
 /**
- * @requires - app routes.
+ * @requires - App routes.
  */
 const routes = require("./routes/routes");
 /**
- * @static
+ * @static - Serving static files
  */
 app.use("/static", express.static(path.join(__dirname, "/public")));
 /**
- * @template
+ * @template - Sets application template engine
  */
 app.set("view engine", "pug");
 
@@ -20,14 +20,17 @@ app.set("view engine", "pug");
  */
 app.use(routes);
 
+/***
+ * App Middleware - Error handlers
+ */
 app.use((req, res, next) => {
     const err = new Error("Oops! That page is not found!");
     err.status = 404;
     err.code = http.STATUS_CODES[err.status];
     next(err);
-  });
+});
   
-  app.use((err, req, res, next) => {
+app.use((err, req, res, next) => {
     if (err.status === 404) {
       res.status(err.status || 404);
       err.code = http.STATUS_CODES[err.status];
@@ -40,7 +43,6 @@ app.use((req, res, next) => {
       res.render("error", { err });
     }
   });
-
 
 const port = process.env.PORT || 3000;
 
