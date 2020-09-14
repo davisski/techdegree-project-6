@@ -1,9 +1,9 @@
 # techdegree-project-6
 Portfolio app 
 ## Table of contents
-*[General info](#general-info)
-*[Tehnologies](#tehnologies)
-*[Setup](#setup)
+* [General info](#general-info)
+* [Tehnologies](#tehnologies)
+* [Setup](#setup)
 ## General info
 Portfolio app to show projects i have done during teamtreehouse Full Stack JavaScript techdegree. Get to know me better and share contact information.
 ## Tehnologies
