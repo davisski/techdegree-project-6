@@ -35,7 +35,7 @@ app.use((err, req, res, next) => {
       res.status(err.status || 404);
       err.code = http.STATUS_CODES[err.status];
       err.message = err.message;
-      return res.render("error", { err });
+      return res.render("page-not-found", { err });
     } else if (err.status === 500) {
       res.status(err.status || 500);
       err.code = http.STATUS_CODES[err.status];
