@@ -3,7 +3,7 @@ extends layout.pug
 block content 
   article.grid-container.portfolio-intro
     div
-    
+
       h1 Let`s create something awesome!
  
       p.lead.text-light
@@ -15,7 +15,7 @@ block content
       each project in projects
 
         .cell
-          a(href=`/projects/${project.id}`)
+          a(href=`/projects/${project.id}` target='_blank')
             img.thumbnail(src=`${project.image_urls.main}`)
             h5= project.project_name
       
