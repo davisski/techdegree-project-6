@@ -10,7 +10,7 @@ Portfolio app
 Portfolio app to show projects i have done during teamtreehouse Full Stack JavaScript techdegree. Get to know me better and share contact information.
 ## Tehnologies
 Project is created with:
-* Node version: v18.14.2
+* Node version: v20.11.0
 * Express version: v4.18.2
 * Pug version: v3.0.2
 * Foundation version: v6.3.3
